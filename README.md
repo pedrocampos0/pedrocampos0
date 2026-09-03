@@ -1,26 +1,115 @@
-<h1 align="center">Hi 👋, I'm Pedro Campos! </h1>
-<h2 align="center">A passionate software engineer from Brazil! 👨‍💻</h3>
+<h1 align="center">Hi 👋, I'm Pedro Campos Borges</h1>
 
-## 📞Connect with me:
- 
-<div> 
-  <a href = "mailto:pedrocamposborgess@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-campos-borges/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<h3 align="center">
+  Software Engineer • Full-Stack • Backend • AI & Cloud
+</h3>
 
-</div>
-  
-## 👨‍💻 I’m mostly working with:
-  
-<div align="center" style="display: inline_block"> </br>
-  <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a><a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-        
-</div>
+<p align="center">
+  Building scalable applications, intelligent workflows and cloud-native solutions.
+</p>
 
-## 🔭 Some Personal Stats:
-
-<div>
+<p align="center">
+  <a href="mailto:pedrocamposborgess@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-campos-borges/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/pedrocampos0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrocampos0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocampos0&layout=compact&theme=midnight-purple"/>
-</div>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
+---
+
+## 👨‍💻 About Me
+
+I'm a **Software Engineer from Brazil 🇧🇷** focused on building scalable, reliable and intelligent software.
+
+My experience spans **backend development, full-stack applications, cloud architecture and AI-powered automation**, working mainly with **Python, Node, TypeScript, React and AWS**.
+
+I enjoy designing systems that combine traditional software engineering with modern **LLMs, AI agents, document processing and automated workflows**.
+
+* 🐍 Building backend services and APIs with **Python**
+* ⚛️ Developing modern interfaces with **React & TypeScript**
+* ☁️ Designing cloud-native architectures with **AWS**
+* 🤖 Building solutions using **LLMs, AI Agents, RAG and automation**
+* 🏗️ Working with distributed systems, queues, containers and serverless architectures
+* 🗄️ Designing applications with relational and NoSQL databases
+* 🚀 Interested in **Software Engineering, AI Engineering and Cloud Architecture**
+
+---
+
+## 🚀 Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nodejs" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,git" />
+</p>
+
+### Databases & Messaging
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,rabbitmq" />
+</p>
+
+### AI & Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-AI_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-Agentic_Workflows-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-Agent_Framework-1C3C3C?style=for-the-badge" />
+</p>
+
+---
+
+## 🧠 What I Like Building
+
+```text
+Backend APIs             ████████████████████
+Full-Stack Applications  ███████████████████
+Cloud Architecture       ██████████████████
+AI / LLM Applications    ███████████████████
+Automation & Agents      ███████████████████
+Distributed Systems      █████████████████
+```
+
+I particularly enjoy projects involving:
+
+* AI-powered document processing
+* Agentic workflows
+* Backend architecture
+* Cloud-native applications
+* Event-driven systems
+* Serverless workloads
+* Data extraction and automation
+* Full-stack product development
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing **software engineering, backend systems, AI applications, cloud architecture and interesting engineering challenges**.
+
+<p align="center">
+  <a href="mailto:pedrocamposborgess@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pedrocamposborgess%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-campos-borges/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro_Campos_Borges-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
